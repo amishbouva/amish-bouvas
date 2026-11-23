@@ -120,7 +120,7 @@
    ]
   }
  },
- "fetchedAt": "2026-11-23T10:36:03.827Z",
+ "fetchedAt": "2026-11-23T10:50:09.083Z",
  "notes": [
   "Each week a team plays two games: its head-to-head matchup, plus a game against the league median (the top 6 scores of the week win it). 'record' combines both; 'h2h' and 'vsMedian' split them.",
   "The top 6 seeds make the playoffs. The regular season is 14 weeks.",
@@ -2192,7 +2192,7 @@
    }
   ],
   "liveStatus": {
-   "asOf": "2026-11-23T10:35:59.631Z",
+   "asOf": "2026-11-23T10:50:04.909Z",
    "currentMedian": 98.7,
    "projectedMedian": 115.4,
    "teams": [

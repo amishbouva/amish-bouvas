@@ -1,6 +1,48 @@
 {
   "editions": [
     {
+      "id": "2026-11-23",
+      "date": "2026-11-23",
+      "label": "Monday Edition",
+      "week": 11,
+      "publishedAt": "2026-11-23T10:50:09.529Z",
+      "stories": [
+        {
+          "kicker": "Monday Night Watch",
+          "headline": "Todd put up 100 and left Dwayne a step stool",
+          "dek": "Todd leads 100.0 to 75.5, but Dwayne has three Monday starters left and a 120.5 projection.",
+          "body": [
+            "Todd put up 100.0 and left Dwayne the kind of obstacle a drywall guy steps over while carrying drywall. Dwayne has 75.5 with Ja'Marr Chase, Chig Okonkwo and Antonio Williams still to go. The app projects 120.5. Todd can spend Monday night defending his lead by holding his phone very still, the same technique you use when a wasp lands on your french fry.",
+            "Todd likes to propose a wager whenever he plays Dwayne. The loser has to kiss the winner's bare backside. You'd think a guy who keeps bringing this idea to the meeting would eventually bring a scoreboard that could clear his browser history. Tonight the projection says Todd should put the paperwork down and practice saying he was obviously kidding. He's going to want that sentence to sound spontaneous.",
+            "Chase alone is projected for 25.9, more than Todd's entire cushion. If Chase gets there, Okonkwo and Williams can spend the rest of the evening ringing Todd's doorbell and running away. If Chase falls short, Dwayne still has two other starters available to complete the job. Todd has the refresh button, which lets him ask whether the people doing the work have finished yet.",
+            "The median could make the evening even ruder. Todd is above it right now and projects below it. Dwayne is below it right now and projects above it. That's an awful lot of furniture for Dwayne to move into the apartment before Todd realizes who's on the lease. Todd, if the score holds, by all means celebrate. Maybe leave the proposed wager out of the group chat until the drywall dries."
+          ]
+        },
+        {
+          "kicker": "Median Watch",
+          "headline": "The median is checking Bryan's height at the gate",
+          "dek": "Bryan has Tee Higgins left and projects to finish 1.1 points below the median.",
+          "body": [
+            "Bryan has 97.3, a lead over Randy's 94.0 and one starter left in Tee Higgins. Lovely. Now stand up straight, Bryan. The ride attendant says your projected 114.4 still comes in 1.1 points below the line. You can absolutely keep the head-to-head lead and spend the whole ride watching the other kids go around from the bench beside the world's saddest coin-operated horse.",
+            "The median is at 98.7 right now and projects to reach 115.4. This is the amusement park where the height requirement goes up while you're standing under the sign. If Higgins runs a route for twelve yards and Bryan starts celebrating, somebody check whether the kid with the clipboard just put on thicker shoes.",
+            "Randy has no starters left, so his contribution to the rest of this matchup is getting out of the way. Bryan can still take the points Randy left sitting there and somehow come home furious at the concept of six other people. He's 8-2 against the median coming in, which gives him just enough experience with this particular ride to be the loudest guy in line when the teenager with the clipboard tells him to step aside.",
+            "Higgins is projected for 17.0, which makes him the only employee in this operation who can do anything about the height stick. Bryan will be squinting at every catch like he's checking whether a coupon has expired. Somewhere in the app there should be a button that just tells him to take his shoes off and try again."
+          ]
+        },
+        {
+          "kicker": "Monday Night Watch",
+          "headline": "Seth's comeback plan has a small Bengals infestation",
+          "dek": "Seth trails Roger by 28.7 points, and both lineups still have starters in Monday’s Cincinnati-Washington game.",
+          "body": [
+            "Seth needs a comeback and has submitted the Bengals defense as part of his application. Roger, who already leads 111.9 to 83.2, still has Joe Burrow and Chase Brown. Imagine breaking into a vending machine and finding Roger inside eating the chips. That's roughly the amount of Cincinnati Seth has to work around before anybody checks whether his comeback paperwork is even in the right folder.",
+            "Seth also has Stefon Diggs, so he's rooting for Washington to throw to Diggs and for Cincinnati's defense to do something impressive on all the other plays. That's a workable viewing plan if you've got a separate remote for each play and the commissioner lets you rewind any drive that inconveniences you. Roger gets to watch Burrow and Brown. Seth has to watch the game like a parent trying to get two kids to share one desirable chicken nugget.",
+            "The projections put Roger at 156.6 and Seth at 101.2. The app has effectively assigned Seth a middle seat and put both armrests in Roger's name. There's room for Monday to surprise everybody, which is precisely the sort of sentence you say to a man in a middle seat while he's discovering that the person in front of him can recline.",
+            "Seth has a habit of telling everyone how much more he cares about his other fantasy leagues. Monday is an excellent night to have those tabs open. Every time Burrow puts more points on Roger's side, Seth can click over and remember that this league occupies a very small, unimportant place in his life. He can tell us all about it immediately after checking the score again."
+          ]
+        }
+      ]
+    },
+    {
       "id": "2026-11-21",
       "date": "2026-11-21",
       "label": "Saturday Edition",
