@@ -120,7 +120,7 @@
    ]
   }
  },
- "fetchedAt": "2026-11-24T10:28:43.187Z",
+ "fetchedAt": "2026-11-24T13:57:59.458Z",
  "notes": [
   "Each week a team plays two games: its head-to-head matchup, plus a game against the league median (the top 6 scores of the week win it). 'record' combines both; 'h2h' and 'vsMedian' split them.",
   "The top 6 seeds make the playoffs. The regular season is 14 weeks.",
@@ -2170,7 +2170,7 @@
     "home": "The Fishsticks",
     "away": "Angry Mennonites",
     "livePoints": "0-0",
-    "projected": "130.04-116.64",
+    "projected": "130.04-131.96",
     "allTimeHeadToHead": "Chad 12-14 vs Seth",
     "homeRecord": "9-13",
     "awayRecord": "8-14"
@@ -2206,7 +2206,7 @@
     "home": "Burnin  Ballers",
     "away": "Smoketown Rumspringas",
     "livePoints": "0-0",
-    "projected": "95.86-138.34",
+    "projected": "114.96-138.34",
     "allTimeHeadToHead": "Burnie 14-11 vs Roger",
     "homeRecord": "11-11",
     "awayRecord": "14-8"

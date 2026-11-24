@@ -1,6 +1,48 @@
 {
   "editions": [
     {
+      "id": "2026-11-24",
+      "date": "2026-11-24",
+      "label": "Tuesday Edition",
+      "week": 12,
+      "publishedAt": "2026-11-24T13:58:00.586Z",
+      "stories": [
+        {
+          "kicker": "Week 11 Recap",
+          "headline": "Brandon takes the playoff seat and leaves Burnie the Wi-Fi password",
+          "dek": "Brandon grabbed sixth with 141.5 points while Burnie fell to seventh with a league-low 81.9.",
+          "body": [
+            "Brandon and Burnie share an Airbnb, so both understand what happens when somebody else books the room. They're both 11-11, but Brandon's in sixth and Burnie's out on the porch typing the door code slower.",
+            "Brandon scored 141.5. At that point the rental app should have sent Burnie a photo of his brother holding the keys with the caption, Your host is nearby. Your host has also declined your request for a late checkout. He says you had all Sunday. Burnie lost to Doug, who scored 116.4. The median was 113.0, so Burnie managed to get turned away at two separate doors. You have to admire the efficiency. Most people would have wasted an afternoon driving between properties to get rejected that thoroughly.",
+            "Burnie DJs weddings. He knows exactly what to do when the dance floor clears, which is why we're begging him to stop looking at 81.9 and reaching for the fog machine. There is no remix where Dobbins comes in on the second verse. That is the entire song. Dak Prescott put up 43.9 for Brandon. Burnie started J.K. Dobbins for 0.0 and finished with 81.9. The checkout instructions are to strip the bed, take out the trash and please stop trying the code.",
+            "Imagine the review Burnie could leave for the playoff spot. The listing said it slept six, but the host occupied the last bed and made me stand outside holding a pillow. Lovely property. Would have preferred to stay. One star, because the app won't let me give it what Dobbins gave me."
+          ]
+        },
+        {
+          "kicker": "High Score",
+          "headline": "Roger puts DK Metcalf in the tip jar",
+          "dek": "Jonah Coleman and CeeDee Lamb carried Roger to a league-high 144.4, with 1.2 from DK Metcalf.",
+          "body": [
+            "Roger rang up 144.4, the week's top score, and DK Metcalf tossed 1.2 into the tip jar like he was apologizing for paying with a large bill.",
+            "Roger actually operates a pretzel stand, which makes him uniquely qualified to look at this lineup and instantly know who needs to stop touching the dough. Coleman and Lamb can take a break whenever they like. DK can take a break as soon as somebody notices he came back from the first one. The scoreboard says the rest of the league had a chance. Brandon got to 141.5, close enough to smell the pretzels and discover Roger had just pulled the little metal gate down. Imagine getting 43.9 from Dak Prescott and still having to eat dinner at the mall fountain.",
+            "Roger's team is 14-8. The tip screen would like to know whether you want to leave 15 percent, 20 percent or whatever amount will make DK stop making eye contact. There is a custom button. It's just a picture of Roger reaching past you and pressing it himself. Jonah Coleman put up 36.9 and CeeDee Lamb added 31.2. At Roger's pretzel stand, that gets you two employees doing the whole lunch rush while DK stands at the register turning the screen around and asking if you'd like to tip.",
+            "Put the receipt on the fridge, Roger. Circle Coleman's number. Circle Lamb's. Fold the bottom up over DK's line like it's the part that tells your spouse what the pretzels actually cost. If anybody asks what he did, tell them he had the little hat on and let them draw their own conclusions."
+          ]
+        },
+        {
+          "kicker": "Upset Desk",
+          "headline": "Thatcher beats first place and is furious to learn about it",
+          "dek": "Thatcher beat league leader Scott 134.3 to 128.1 and moved into fourth.",
+          "body": [
+            "Thatcher beat first-place Scott by 6.2 points. Please give him some privacy while he figures out whose lucky break this was and how it was meant to ruin his week.",
+            "Scott had 128.1 and still won his median game. That's the kind of loss where you get home and find out the valet still gave you the good parking spot. Scott remains first. Thatcher will presumably list that as evidence that beating him accomplished something suspiciously small. Thatcher drives a truck for a lumber company. Imagine him backing up to the standings with a load marked GOOD NEWS and asking the dock guy to check the address again. Surely this goes to Randy. Can you look under Randy? Can you call Randy and ask if he's expecting anything?",
+            "Randy is fifth, directly behind Thatcher. This is a terrible place for Randy to stand if he wants to be blamed for fewer things. Thatcher can now turn around and deliver an entire opening statement without moving his feet. The exhibit marked 134.3 will be entered as evidence against his own happiness. Chuba Hubbard scored 28.0 and Travis Kelce added 25.4. Even Michael Mayer's 1.4 couldn't save Thatcher from fourth place. Imagine spending all week boarding up the windows and having good news come down the chimney.",
+            "At 12-10, Thatcher has a playoff spot to defend. Somebody should tell him it's a particularly grim assignment. He'll have to trudge back to his phone and look at the same standings the rest of us look at for fun. The man finally has a cushion and he's checking it for termites."
+          ]
+        }
+      ]
+    },
+    {
       "id": "2026-11-23",
       "date": "2026-11-23",
       "label": "Monday Edition",
