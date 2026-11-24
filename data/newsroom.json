@@ -120,7 +120,7 @@
    ]
   }
  },
- "fetchedAt": "2026-11-23T10:50:09.083Z",
+ "fetchedAt": "2026-11-24T10:28:43.187Z",
  "notes": [
   "Each week a team plays two games: its head-to-head matchup, plus a game against the league median (the top 6 scores of the week win it). 'record' combines both; 'h2h' and 'vsMedian' split them.",
   "The top 6 seeds make the playoffs. The regular season is 14 weeks.",
@@ -133,8 +133,8 @@
   "thisWeek.liveStatus (when present) is the week in progress as of 'asOf': each team's points so far and projection, how far it sits from the current and projected median (the midpoint of the 6th and 7th scores), and its starters still to play with their NFL games (times Eastern). Nothing in it is final."
  ],
  "season": 2026,
- "currentWeek": 11,
- "lastFinishedWeek": 10,
+ "currentWeek": 12,
+ "lastFinishedWeek": 11,
  "regularSeasonWeeks": 14,
  "playoffTeams": 6,
  "tradeDeadline": "2026-12-02",
@@ -144,36 +144,36 @@
    "name": "VillageRd Buttkickers",
    "manager": "Scott",
    "seed": 1,
-   "record": "14-6",
-   "w": 14,
-   "l": 6,
+   "record": "15-7",
+   "w": 15,
+   "l": 7,
    "t": 0,
-   "pf": 1385.9,
-   "pa": 1294.64,
-   "streak": "L1",
+   "pf": 1513.96,
+   "pa": 1428.9,
+   "streak": "W1",
    "trades": 0,
    "pickups": 8,
    "faabSpent": 110,
-   "h2h": "7-3",
-   "vsMedian": "7-3",
+   "h2h": "7-4",
+   "vsMedian": "8-3",
    "topPlayers": [
     {
      "player": "Jahmyr Gibbs",
      "pos": "RB",
-     "ptsWhileStarted": 263.4,
-     "starts": 9
+     "ptsWhileStarted": 291.2,
+     "starts": 10
     },
     {
      "player": "Jared Goff",
      "pos": "QB",
-     "ptsWhileStarted": 206.8,
-     "starts": 9
+     "ptsWhileStarted": 234.1,
+     "starts": 10
     },
     {
      "player": "Bucky Irving",
      "pos": "RB",
-     "ptsWhileStarted": 165.1,
-     "starts": 9
+     "ptsWhileStarted": 184.1,
+     "starts": 10
     }
    ]
   },
@@ -182,24 +182,24 @@
    "name": "Intercourse Encroachment",
    "manager": "Bryan",
    "seed": 2,
-   "record": "13-7",
-   "w": 13,
-   "l": 7,
+   "record": "14-8",
+   "w": 14,
+   "l": 8,
    "t": 0,
-   "pf": 1423.06,
-   "pa": 1325,
-   "streak": "L1",
+   "pf": 1532.7,
+   "pa": 1418.96,
+   "streak": "L2",
    "trades": 0,
    "pickups": 26,
    "faabSpent": 188,
-   "h2h": "5-5",
-   "vsMedian": "8-2",
+   "h2h": "6-5",
+   "vsMedian": "8-3",
    "topPlayers": [
     {
      "player": "Christian McCaffrey",
      "pos": "RB",
-     "ptsWhileStarted": 217,
-     "starts": 9
+     "ptsWhileStarted": 231.2,
+     "starts": 10
     },
     {
      "player": "Kenneth Walker III",
@@ -208,10 +208,10 @@
      "starts": 8
     },
     {
-     "player": "Tee Higgins",
-     "pos": "WR",
-     "ptsWhileStarted": 174.4,
-     "starts": 9
+     "player": "Javonte Williams",
+     "pos": "RB",
+     "ptsWhileStarted": 195.4,
+     "starts": 11
     }
    ]
   },
@@ -220,36 +220,74 @@
    "name": "Smoketown Rumspringas",
    "manager": "Roger",
    "seed": 3,
-   "record": "12-8",
-   "w": 12,
+   "record": "14-8",
+   "w": 14,
    "l": 8,
    "t": 0,
-   "pf": 1334.56,
-   "pa": 1169.26,
-   "streak": "W4",
+   "pf": 1478.96,
+   "pa": 1260.92,
+   "streak": "W5",
    "trades": 1,
    "pickups": 17,
    "faabSpent": 910,
-   "h2h": "6-4",
-   "vsMedian": "6-4",
+   "h2h": "7-4",
+   "vsMedian": "7-4",
    "topPlayers": [
     {
      "player": "Joe Burrow",
      "pos": "QB",
-     "ptsWhileStarted": 288.3,
-     "starts": 9
+     "ptsWhileStarted": 312.2,
+     "starts": 10
     },
     {
      "player": "CeeDee Lamb",
      "pos": "WR",
-     "ptsWhileStarted": 226.5,
-     "starts": 10
+     "ptsWhileStarted": 257.7,
+     "starts": 11
     },
     {
      "player": "Tetairoa McMillan",
      "pos": "WR",
-     "ptsWhileStarted": 133,
-     "starts": 9
+     "ptsWhileStarted": 152.1,
+     "starts": 10
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "name": "Thatcher's Wackers",
+   "manager": "Thatcher",
+   "seed": 4,
+   "record": "12-10",
+   "w": 12,
+   "l": 10,
+   "t": 0,
+   "pf": 1363.12,
+   "pa": 1297.1,
+   "streak": "W1",
+   "trades": 1,
+   "pickups": 25,
+   "faabSpent": 935,
+   "h2h": "5-6",
+   "vsMedian": "7-4",
+   "topPlayers": [
+    {
+     "player": "Chuba Hubbard",
+     "pos": "RB",
+     "ptsWhileStarted": 212.8,
+     "starts": 10
+    },
+    {
+     "player": "Trey McBride",
+     "pos": "TE",
+     "ptsWhileStarted": 187.3,
+     "starts": 11
+    },
+    {
+     "player": "Puka Nacua",
+     "pos": "WR",
+     "ptsWhileStarted": 176.6,
+     "starts": 7
     }
    ]
   },
@@ -257,19 +295,19 @@
    "id": 3,
    "name": "Manny's SexPistols",
    "manager": "Randy",
-   "seed": 4,
-   "record": "12-8",
+   "seed": 5,
+   "record": "12-10",
    "w": 12,
-   "l": 8,
+   "l": 10,
    "t": 0,
-   "pf": 1237.12,
-   "pa": 1149.08,
-   "streak": "W2",
+   "pf": 1331.08,
+   "pa": 1258.72,
+   "streak": "L1",
    "trades": 1,
    "pickups": 18,
    "faabSpent": 553,
-   "h2h": "6-4",
-   "vsMedian": "6-4",
+   "h2h": "6-5",
+   "vsMedian": "6-5",
    "topPlayers": [
     {
      "player": "Bijan Robinson",
@@ -280,14 +318,52 @@
     {
      "player": "Jaylen Warren",
      "pos": "RB",
-     "ptsWhileStarted": 140.9,
-     "starts": 7
+     "ptsWhileStarted": 145.8,
+     "starts": 8
     },
     {
-     "player": "Michael Wilson",
+     "player": "Nico Collins",
      "pos": "WR",
-     "ptsWhileStarted": 121.7,
+     "ptsWhileStarted": 132.3,
+     "starts": 8
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "name": "The Bike slashers",
+   "manager": "Brandon",
+   "seed": 6,
+   "record": "11-11",
+   "w": 11,
+   "l": 11,
+   "t": 0,
+   "pf": 1262.06,
+   "pa": 1270.9,
+   "streak": "W2",
+   "trades": 0,
+   "pickups": 12,
+   "faabSpent": 254,
+   "h2h": "5-6",
+   "vsMedian": "6-5",
+   "topPlayers": [
+    {
+     "player": "Dak Prescott",
+     "pos": "QB",
+     "ptsWhileStarted": 224.2,
      "starts": 9
+    },
+    {
+     "player": "Ashton Jeanty",
+     "pos": "RB",
+     "ptsWhileStarted": 181.1,
+     "starts": 11
+    },
+    {
+     "player": "George Pickens",
+     "pos": "WR",
+     "ptsWhileStarted": 174.6,
+     "starts": 10
     }
    ]
   },
@@ -295,19 +371,19 @@
    "id": 11,
    "name": "Burnin  Ballers",
    "manager": "Burnie",
-   "seed": 5,
-   "record": "11-9",
+   "seed": 7,
+   "record": "11-11",
    "w": 11,
-   "l": 9,
+   "l": 11,
    "t": 0,
-   "pf": 1169.26,
-   "pa": 1108.2,
-   "streak": "L3",
+   "pf": 1251.16,
+   "pa": 1224.6,
+   "streak": "L4",
    "trades": 0,
    "pickups": 15,
    "faabSpent": 400,
-   "h2h": "7-3",
-   "vsMedian": "4-6",
+   "h2h": "7-4",
+   "vsMedian": "4-7",
    "topPlayers": [
     {
      "player": "Jaxon Smith-Njigba",
@@ -318,127 +394,13 @@
     {
      "player": "Derrick Henry",
      "pos": "RB",
-     "ptsWhileStarted": 165.3,
-     "starts": 10
+     "ptsWhileStarted": 184.4,
+     "starts": 11
     },
     {
      "player": "Tony Pollard",
      "pos": "RB",
-     "ptsWhileStarted": 144.9,
-     "starts": 9
-    }
-   ]
-  },
-  {
-   "id": 12,
-   "name": "Thatcher's Wackers",
-   "manager": "Thatcher",
-   "seed": 6,
-   "record": "10-10",
-   "w": 10,
-   "l": 10,
-   "t": 0,
-   "pf": 1228.86,
-   "pa": 1169.04,
-   "streak": "L1",
-   "trades": 1,
-   "pickups": 25,
-   "faabSpent": 935,
-   "h2h": "4-6",
-   "vsMedian": "6-4",
-   "topPlayers": [
-    {
-     "player": "Chuba Hubbard",
-     "pos": "RB",
-     "ptsWhileStarted": 184.8,
-     "starts": 9
-    },
-    {
-     "player": "Puka Nacua",
-     "pos": "WR",
-     "ptsWhileStarted": 176.6,
-     "starts": 7
-    },
-    {
-     "player": "Trey McBride",
-     "pos": "TE",
-     "ptsWhileStarted": 172.5,
-     "starts": 10
-    }
-   ]
-  },
-  {
-   "id": 6,
-   "name": "The Fishsticks",
-   "manager": "Chad",
-   "seed": 7,
-   "record": "9-11",
-   "w": 9,
-   "l": 11,
-   "t": 0,
-   "pf": 1185.16,
-   "pa": 1174.22,
-   "streak": "W1",
-   "trades": 0,
-   "pickups": 15,
-   "faabSpent": 233,
-   "h2h": "5-5",
-   "vsMedian": "4-6",
-   "topPlayers": [
-    {
-     "player": "Amon-Ra St. Brown",
-     "pos": "WR",
-     "ptsWhileStarted": 187,
-     "starts": 9
-    },
-    {
-     "player": "Garrett Wilson",
-     "pos": "WR",
-     "ptsWhileStarted": 132.3,
-     "starts": 9
-    },
-    {
-     "player": "C.J. Stroud",
-     "pos": "QB",
-     "ptsWhileStarted": 121.3,
-     "starts": 4
-    }
-   ]
-  },
-  {
-   "id": 13,
-   "name": "The Bike slashers",
-   "manager": "Brandon",
-   "seed": 8,
-   "record": "9-11",
-   "w": 9,
-   "l": 11,
-   "t": 0,
-   "pf": 1120.56,
-   "pa": 1182.44,
-   "streak": "W1",
-   "trades": 0,
-   "pickups": 12,
-   "faabSpent": 254,
-   "h2h": "4-6",
-   "vsMedian": "5-5",
-   "topPlayers": [
-    {
-     "player": "Dak Prescott",
-     "pos": "QB",
-     "ptsWhileStarted": 180.3,
-     "starts": 8
-    },
-    {
-     "player": "Jonathan Taylor",
-     "pos": "RB",
-     "ptsWhileStarted": 165.9,
-     "starts": 10
-    },
-    {
-     "player": "Ashton Jeanty",
-     "pos": "RB",
-     "ptsWhileStarted": 151.7,
+     "ptsWhileStarted": 157.9,
      "starts": 10
     }
    ]
@@ -447,25 +409,25 @@
    "id": 9,
    "name": "Cow Tippers",
    "manager": "Doug",
-   "seed": 9,
-   "record": "8-12",
-   "w": 8,
+   "seed": 8,
+   "record": "10-12",
+   "w": 10,
    "l": 12,
    "t": 0,
-   "pf": 1226.56,
-   "pa": 1281.34,
-   "streak": "W1",
+   "pf": 1342.96,
+   "pa": 1363.24,
+   "streak": "W2",
    "trades": 0,
    "pickups": 19,
    "faabSpent": 693,
-   "h2h": "3-7",
-   "vsMedian": "5-5",
+   "h2h": "4-7",
+   "vsMedian": "6-5",
    "topPlayers": [
     {
      "player": "Brock Purdy",
      "pos": "QB",
-     "ptsWhileStarted": 193.7,
-     "starts": 6
+     "ptsWhileStarted": 221.9,
+     "starts": 7
     },
     {
      "player": "Christian Watson",
@@ -476,84 +438,46 @@
     {
      "player": "George Kittle",
      "pos": "TE",
-     "ptsWhileStarted": 129.2,
-     "starts": 9
+     "ptsWhileStarted": 147.6,
+     "starts": 10
     }
    ]
   },
   {
-   "id": 7,
-   "name": "Angry Mennonites",
-   "manager": "Seth",
-   "seed": 10,
-   "record": "8-12",
-   "w": 8,
-   "l": 12,
-   "t": 0,
-   "pf": 1207.42,
-   "pa": 1268.3,
-   "streak": "L2",
-   "trades": 0,
-   "pickups": 11,
-   "faabSpent": 300,
-   "h2h": "5-5",
-   "vsMedian": "3-7",
-   "topPlayers": [
-    {
-     "player": "Josh Allen",
-     "pos": "QB",
-     "ptsWhileStarted": 254,
-     "starts": 9
-    },
-    {
-     "player": "Brock Bowers",
-     "pos": "TE",
-     "ptsWhileStarted": 152.8,
-     "starts": 8
-    },
-    {
-     "player": "Bhayshul Tuten",
-     "pos": "RB",
-     "ptsWhileStarted": 149.5,
-     "starts": 9
-    }
-   ]
-  },
-  {
-   "id": 14,
-   "name": "The Pig  Killers",
-   "manager": "Todd",
-   "seed": 11,
-   "record": "7-13",
-   "w": 7,
+   "id": 6,
+   "name": "The Fishsticks",
+   "manager": "Chad",
+   "seed": 9,
+   "record": "9-13",
+   "w": 9,
    "l": 13,
    "t": 0,
-   "pf": 1122.94,
-   "pa": 1254.04,
-   "streak": "W1",
+   "pf": 1273.62,
+   "pa": 1315.72,
+   "streak": "L1",
    "trades": 0,
-   "pickups": 17,
-   "faabSpent": 933,
-   "h2h": "5-5",
-   "vsMedian": "2-8",
+   "pickups": 15,
+   "faabSpent": 233,
+   "h2h": "5-6",
+   "vsMedian": "4-7",
    "topPlayers": [
     {
-     "player": "Trevor Lawrence",
-     "pos": "QB",
-     "ptsWhileStarted": 222,
-     "starts": 9
-    },
-    {
-     "player": "James Cook III",
-     "pos": "RB",
-     "ptsWhileStarted": 181.6,
-     "starts": 9
-    },
-    {
-     "player": "Parker Washington",
+     "player": "Amon-Ra St. Brown",
      "pos": "WR",
-     "ptsWhileStarted": 142.8,
-     "starts": 9
+     "ptsWhileStarted": 201.7,
+     "starts": 10
+    },
+    {
+     "player": "C.J. Stroud",
+     "pos": "QB",
+     "ptsWhileStarted": 148.7,
+     "starts": 5
+    },
+    {
+     "player": "Garrett Wilson",
+     "pos": "WR",
+     "ptsWhileStarted": 139.2,
+     "starts": 10
     }
    ]
   },
@@ -561,25 +485,25 @@
    "id": 1,
    "name": "Elam's Ramblers",
    "manager": "Dwayne",
-   "seed": 12,
-   "record": "7-13",
-   "w": 7,
+   "seed": 10,
+   "record": "9-13",
+   "w": 9,
    "l": 13,
    "t": 0,
-   "pf": 1070.52,
-   "pa": 1336.36,
-   "streak": "L1",
+   "pf": 1186.92,
+   "pa": 1436.4,
+   "streak": "W1",
    "trades": 1,
    "pickups": 34,
    "faabSpent": 742,
-   "h2h": "3-7",
-   "vsMedian": "4-6",
+   "h2h": "4-7",
+   "vsMedian": "5-6",
    "topPlayers": [
     {
      "player": "Ja'Marr Chase",
      "pos": "WR",
-     "ptsWhileStarted": 196.8,
-     "starts": 9
+     "ptsWhileStarted": 204.9,
+     "starts": 10
     },
     {
      "player": "Jordan Love",
@@ -594,6 +518,82 @@
      "starts": 9
     }
    ]
+  },
+  {
+   "id": 7,
+   "name": "Angry Mennonites",
+   "manager": "Seth",
+   "seed": 11,
+   "record": "8-14",
+   "w": 8,
+   "l": 14,
+   "t": 0,
+   "pf": 1299.08,
+   "pa": 1412.7,
+   "streak": "L3",
+   "trades": 0,
+   "pickups": 11,
+   "faabSpent": 300,
+   "h2h": "5-6",
+   "vsMedian": "3-8",
+   "topPlayers": [
+    {
+     "player": "Josh Allen",
+     "pos": "QB",
+     "ptsWhileStarted": 268.2,
+     "starts": 10
+    },
+    {
+     "player": "Malik Nabers",
+     "pos": "WR",
+     "ptsWhileStarted": 159.7,
+     "starts": 10
+    },
+    {
+     "player": "Bhayshul Tuten",
+     "pos": "RB",
+     "ptsWhileStarted": 157.8,
+     "starts": 10
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "name": "The Pig  Killers",
+   "manager": "Todd",
+   "seed": 12,
+   "record": "7-15",
+   "w": 7,
+   "l": 15,
+   "t": 0,
+   "pf": 1222.98,
+   "pa": 1370.44,
+   "streak": "L1",
+   "trades": 0,
+   "pickups": 17,
+   "faabSpent": 933,
+   "h2h": "5-6",
+   "vsMedian": "2-9",
+   "topPlayers": [
+    {
+     "player": "Trevor Lawrence",
+     "pos": "QB",
+     "ptsWhileStarted": 236.7,
+     "starts": 10
+    },
+    {
+     "player": "James Cook III",
+     "pos": "RB",
+     "ptsWhileStarted": 198.8,
+     "starts": 10
+    },
+    {
+     "player": "Parker Washington",
+     "pos": "WR",
+     "ptsWhileStarted": 162.1,
+     "starts": 10
+    }
+   ]
   }
  ],
  "powerRankings": [
@@ -601,157 +601,157 @@
    "rank": 1,
    "lastWeek": 1,
    "team": "Intercourse Encroachment",
-   "score": 87.6,
-   "record": 85.7,
+   "score": 86.6,
+   "record": 87.5,
    "scoring": 100,
-   "form": 73.3,
-   "schedule": 81.2,
-   "ppg": 142.3,
-   "last3ppg": 135.4,
-   "oppPpgLeft": 120.4
+   "form": 79,
+   "schedule": 63.6,
+   "ppg": 139.3,
+   "last3ppg": 133.2,
+   "oppPpgLeft": 119.1
   },
   {
    "rank": 2,
-   "lastWeek": 2,
-   "team": "VillageRd Buttkickers",
-   "score": 80.6,
-   "record": 100,
-   "scoring": 89.5,
-   "form": 52.7,
-   "schedule": 58.7,
-   "ppg": 138.6,
-   "last3ppg": 122.4,
-   "oppPpgLeft": 122.8
+   "lastWeek": 3,
+   "team": "Smoketown Rumspringas",
+   "score": 84.8,
+   "record": 87.5,
+   "scoring": 84.5,
+   "form": 100,
+   "schedule": 59.7,
+   "ppg": 134.5,
+   "last3ppg": 145.1,
+   "oppPpgLeft": 119.8
   },
   {
    "rank": 3,
-   "lastWeek": 3,
-   "team": "Smoketown Rumspringas",
-   "score": 79.2,
-   "record": 71.4,
-   "scoring": 74.9,
-   "form": 100,
-   "schedule": 77.2,
-   "ppg": 133.5,
-   "last3ppg": 152.2,
-   "oppPpgLeft": 120.8
+   "lastWeek": 2,
+   "team": "VillageRd Buttkickers",
+   "score": 83.3,
+   "record": 100,
+   "scoring": 94.6,
+   "form": 67.6,
+   "schedule": 44.2,
+   "ppg": 137.6,
+   "last3ppg": 126.7,
+   "oppPpgLeft": 122.6
   },
   {
    "rank": 4,
-   "lastWeek": 6,
+   "lastWeek": 4,
    "team": "Manny's SexPistols",
-   "score": 56.1,
-   "record": 71.4,
-   "scoring": 47.3,
-   "form": 54.4,
-   "schedule": 48.3,
-   "ppg": 123.7,
-   "last3ppg": 123.5,
-   "oppPpgLeft": 123.9
+   "score": 54.4,
+   "record": 62.5,
+   "scoring": 41.7,
+   "form": 53.6,
+   "schedule": 68.7,
+   "ppg": 121,
+   "last3ppg": 118.8,
+   "oppPpgLeft": 118.1
   },
   {
    "rank": 5,
-   "lastWeek": 8,
-   "team": "The Fishsticks",
-   "score": 46.1,
-   "record": 28.6,
-   "scoring": 32.5,
-   "form": 55.6,
-   "schedule": 100,
-   "ppg": 118.5,
-   "last3ppg": 124.2,
-   "oppPpgLeft": 118.4
+   "lastWeek": 7,
+   "team": "Thatcher's Wackers",
+   "score": 51.3,
+   "record": 62.5,
+   "scoring": 51,
+   "form": 50.6,
+   "schedule": 30.6,
+   "ppg": 123.9,
+   "last3ppg": 117.1,
+   "oppPpgLeft": 125
   },
   {
    "rank": 6,
-   "lastWeek": 5,
-   "team": "Angry Mennonites",
-   "score": 43.8,
-   "record": 14.3,
-   "scoring": 38.8,
-   "form": 59,
-   "schedule": 94.2,
-   "ppg": 120.7,
-   "last3ppg": 126.4,
-   "oppPpgLeft": 119
+   "lastWeek": 10,
+   "team": "The Bike slashers",
+   "score": 43.6,
+   "record": 50,
+   "scoring": 21.7,
+   "form": 55.7,
+   "schedule": 65.6,
+   "ppg": 114.7,
+   "last3ppg": 120,
+   "oppPpgLeft": 118.7
   },
   {
    "rank": 7,
-   "lastWeek": 4,
-   "team": "Thatcher's Wackers",
-   "score": 39.3,
-   "record": 42.9,
-   "scoring": 44.9,
-   "form": 53.5,
-   "schedule": 0,
-   "ppg": 122.9,
+   "lastWeek": 9,
+   "team": "Cow Tippers",
+   "score": 41.1,
+   "record": 37.5,
+   "scoring": 45.1,
+   "form": 60.8,
+   "schedule": 12.6,
+   "ppg": 122.1,
    "last3ppg": 122.9,
-   "oppPpgLeft": 129.2
+   "oppPpgLeft": 128.3
   },
   {
    "rank": 8,
-   "lastWeek": 7,
-   "team": "Burnin  Ballers",
-   "score": 34.3,
-   "record": 57.1,
-   "scoring": 28,
-   "form": 0,
-   "schedule": 49.3,
-   "ppg": 116.9,
-   "last3ppg": 89.2,
-   "oppPpgLeft": 123.8
+   "lastWeek": 5,
+   "team": "The Fishsticks",
+   "score": 36.2,
+   "record": 25,
+   "scoring": 25.1,
+   "form": 45.7,
+   "schedule": 71.6,
+   "ppg": 115.8,
+   "last3ppg": 114.3,
+   "oppPpgLeft": 117.6
   },
   {
    "rank": 9,
-   "lastWeek": 10,
-   "team": "Cow Tippers",
-   "score": 33.8,
-   "record": 14.3,
-   "scoring": 44.3,
-   "form": 49.8,
-   "schedule": 27.3,
-   "ppg": 122.7,
-   "last3ppg": 120.6,
-   "oppPpgLeft": 126.2
+   "lastWeek": 6,
+   "team": "Angry Mennonites",
+   "score": 32.2,
+   "record": 12.5,
+   "scoring": 32.4,
+   "form": 10.3,
+   "schedule": 100,
+   "ppg": 118.1,
+   "last3ppg": 94.2,
+   "oppPpgLeft": 112.5
   },
   {
    "rank": 10,
-   "lastWeek": 11,
-   "team": "The Bike slashers",
-   "score": 29.6,
-   "record": 28.6,
-   "scoring": 14.2,
-   "form": 12.2,
-   "schedule": 90.8,
-   "ppg": 112.1,
-   "last3ppg": 96.9,
-   "oppPpgLeft": 119.4
+   "lastWeek": 8,
+   "team": "Burnin  Ballers",
+   "score": 28,
+   "record": 50,
+   "scoring": 18.6,
+   "form": 0,
+   "schedule": 43.1,
+   "ppg": 113.7,
+   "last3ppg": 88.3,
+   "oppPpgLeft": 122.8
   },
   {
    "rank": 11,
    "lastWeek": 12,
-   "team": "The Pig  Killers",
-   "score": 23.7,
-   "record": 0,
-   "scoring": 14.9,
-   "form": 63.5,
-   "schedule": 38.5,
-   "ppg": 112.3,
-   "last3ppg": 129.2,
-   "oppPpgLeft": 125
+   "team": "Elam's Ramblers",
+   "score": 23,
+   "record": 25,
+   "scoring": 0,
+   "form": 54,
+   "schedule": 31.4,
+   "ppg": 107.9,
+   "last3ppg": 119,
+   "oppPpgLeft": 124.9
   },
   {
    "rank": 12,
-   "lastWeek": 9,
-   "team": "Elam's Ramblers",
-   "score": 19.4,
+   "lastWeek": 11,
+   "team": "The Pig  Killers",
+   "score": 17.3,
    "record": 0,
-   "scoring": 0,
-   "form": 49,
-   "schedule": 63.7,
-   "ppg": 107.1,
-   "last3ppg": 120.1,
-   "oppPpgLeft": 122.3
+   "scoring": 10.4,
+   "form": 68,
+   "schedule": 0,
+   "ppg": 111.2,
+   "last3ppg": 127,
+   "oppPpgLeft": 130.6
   }
  ],
  "weeks": [
@@ -1434,9 +1434,296 @@
      "awayAboveMedian": false
     }
    ]
+  },
+  {
+   "week": 11,
+   "median": 113.02,
+   "high": {
+    "team": "Smoketown Rumspringas",
+    "pts": 144.4
+   },
+   "low": {
+    "team": "Burnin  Ballers",
+    "pts": 81.9
+   },
+   "games": [
+    {
+     "home": "Manny's SexPistols",
+     "away": "Intercourse Encroachment",
+     "score": "93.96-109.64",
+     "winner": "Intercourse Encroachment",
+     "margin": 15.68,
+     "homeAboveMedian": false,
+     "awayAboveMedian": false
+    },
+    {
+     "home": "Angry Mennonites",
+     "away": "Smoketown Rumspringas",
+     "score": "91.66-144.4",
+     "winner": "Smoketown Rumspringas",
+     "margin": 52.74,
+     "homeAboveMedian": false,
+     "awayAboveMedian": true
+    },
+    {
+     "home": "The Fishsticks",
+     "away": "The Bike slashers",
+     "score": "88.46-141.5",
+     "winner": "The Bike slashers",
+     "margin": 53.04,
+     "homeAboveMedian": false,
+     "awayAboveMedian": true
+    },
+    {
+     "home": "VillageRd Buttkickers",
+     "away": "Thatcher's Wackers",
+     "score": "128.06-134.26",
+     "winner": "Thatcher's Wackers",
+     "margin": 6.2,
+     "homeAboveMedian": true,
+     "awayAboveMedian": true
+    },
+    {
+     "home": "Elam's Ramblers",
+     "away": "The Pig  Killers",
+     "score": "116.4-100.04",
+     "winner": "Elam's Ramblers",
+     "margin": 16.36,
+     "homeAboveMedian": true,
+     "awayAboveMedian": false
+    },
+    {
+     "home": "Burnin  Ballers",
+     "away": "Cow Tippers",
+     "score": "81.9-116.4",
+     "winner": "Cow Tippers",
+     "margin": 34.5,
+     "homeAboveMedian": false,
+     "awayAboveMedian": true
+    }
+   ]
   }
  ],
  "recentWeeks": [
+  {
+   "week": 11,
+   "topPerformances": [
+    {
+     "team": "The Bike slashers",
+     "player": "Dak Prescott",
+     "pos": "QB",
+     "pts": 43.9
+    },
+    {
+     "team": "Smoketown Rumspringas",
+     "player": "Jonah Coleman",
+     "pos": "RB",
+     "pts": 36.9
+    },
+    {
+     "team": "Smoketown Rumspringas",
+     "player": "CeeDee Lamb",
+     "pos": "WR",
+     "pts": 31.2
+    },
+    {
+     "team": "Manny's SexPistols",
+     "player": "Patrick Mahomes",
+     "pos": "QB",
+     "pts": 30.96
+    },
+    {
+     "team": "The Bike slashers",
+     "player": "Ashton Jeanty",
+     "pos": "RB",
+     "pts": 29.4
+    },
+    {
+     "team": "Cow Tippers",
+     "player": "Brock Purdy",
+     "pos": "QB",
+     "pts": 28.2
+    },
+    {
+     "team": "Thatcher's Wackers",
+     "player": "Chuba Hubbard",
+     "pos": "RB",
+     "pts": 28
+    },
+    {
+     "team": "VillageRd Buttkickers",
+     "player": "Jahmyr Gibbs",
+     "pos": "RB",
+     "pts": 27.8
+    }
+   ],
+   "duds": [
+    {
+     "team": "The Fishsticks",
+     "player": "Juwan Johnson",
+     "pos": "TE",
+     "pts": 0
+    },
+    {
+     "team": "Angry Mennonites",
+     "player": "Brock Bowers",
+     "pos": "TE",
+     "pts": 0
+    },
+    {
+     "team": "Burnin  Ballers",
+     "player": "J.K. Dobbins",
+     "pos": "RB",
+     "pts": 0
+    },
+    {
+     "team": "Smoketown Rumspringas",
+     "player": "DK Metcalf",
+     "pos": "WR",
+     "pts": 1.2
+    },
+    {
+     "team": "Thatcher's Wackers",
+     "player": "Michael Mayer",
+     "pos": "TE",
+     "pts": 1.4
+    }
+   ],
+   "teams": [
+    {
+     "team": "Elam's Ramblers",
+     "starterPts": 116.4,
+     "benchPts": 34.2,
+     "topStarter": [
+      "DJ Moore (WR) 23.1",
+      "Antonio Williams (WR) 22.2"
+     ],
+     "bestBench": "Mike Gesicki (TE) 12.7",
+     "lowestFlexStarter": "Cam Skattebo (RB) 5.8"
+    },
+    {
+     "team": "Smoketown Rumspringas",
+     "starterPts": 144.4,
+     "benchPts": 24.8,
+     "topStarter": [
+      "Jonah Coleman (RB) 36.9",
+      "CeeDee Lamb (WR) 31.2"
+     ],
+     "bestBench": "Jalen Coker (WR) 8.7",
+     "lowestFlexStarter": "DK Metcalf (WR) 1.2"
+    },
+    {
+     "team": "Manny's SexPistols",
+     "starterPts": 93.96,
+     "benchPts": 23.96,
+     "topStarter": [
+      "Patrick Mahomes (QB) 30.96",
+      "Nico Collins (WR) 15.3"
+     ],
+     "bestBench": "Jayden Daniels (QB) 17.06",
+     "lowestFlexStarter": "Xavier Hutchinson (WR) 3.3"
+    },
+    {
+     "team": "Intercourse Encroachment",
+     "starterPts": 109.64,
+     "benchPts": 9.8,
+     "topStarter": [
+      "Javonte Williams (RB) 24.1",
+      "Mike Evans (WR) 23.9"
+     ],
+     "bestBench": "Brian Thomas Jr. (WR) 8.8",
+     "lowestFlexStarter": "Cade Otton (TE) 1.8"
+    },
+    {
+     "team": "The Fishsticks",
+     "starterPts": 88.46,
+     "benchPts": 31.88,
+     "topStarter": [
+      "C.J. Stroud (QB) 27.46",
+      "Amon-Ra St. Brown (WR) 14.7"
+     ],
+     "bestBench": "Fernando Mendoza (QB) 31.88",
+     "lowestFlexStarter": "Juwan Johnson (TE) 0"
+    },
+    {
+     "team": "Angry Mennonites",
+     "starterPts": 91.66,
+     "benchPts": 32.4,
+     "topStarter": [
+      "Jameson Williams (WR) 20.8",
+      "Malik Nabers (WR) 18.5"
+     ],
+     "bestBench": "Kenny Gainwell (RB) 9.9",
+     "lowestFlexStarter": "Brock Bowers (TE) 0"
+    },
+    {
+     "team": "VillageRd Buttkickers",
+     "starterPts": 128.06,
+     "benchPts": 40.98,
+     "topStarter": [
+      "Jahmyr Gibbs (RB) 27.8",
+      "Jared Goff (QB) 27.36"
+     ],
+     "bestBench": "Aaron Rodgers (QB) 17.98",
+     "lowestFlexStarter": "Chris Godwin Jr. (WR) 4.3"
+    },
+    {
+     "team": "Cow Tippers",
+     "starterPts": 116.4,
+     "benchPts": 46.1,
+     "topStarter": [
+      "Brock Purdy (QB) 28.2",
+      "Emmett Johnson (RB) 26.3"
+     ],
+     "bestBench": "Ladd McConkey (WR) 20.7",
+     "lowestFlexStarter": "Seth McGowan (RB) 2.2"
+    },
+    {
+     "team": "Burnin  Ballers",
+     "starterPts": 81.9,
+     "benchPts": 11.46,
+     "topStarter": [
+      "Derrick Henry (RB) 19.1",
+      "Bo Nix (QB) 13.5"
+     ],
+     "bestBench": "Daniel Jones (QB) 4.06",
+     "lowestFlexStarter": "J.K. Dobbins (RB) 0"
+    },
+    {
+     "team": "Thatcher's Wackers",
+     "starterPts": 134.26,
+     "benchPts": 20,
+     "topStarter": [
+      "Chuba Hubbard (RB) 28",
+      "Travis Kelce (TE) 25.4"
+     ],
+     "bestBench": "Bears D/ST (D/ST) 15",
+     "lowestFlexStarter": "Michael Mayer (TE) 1.4"
+    },
+    {
+     "team": "The Bike slashers",
+     "starterPts": 141.5,
+     "benchPts": 62.28,
+     "topStarter": [
+      "Dak Prescott (QB) 43.9",
+      "Ashton Jeanty (RB) 29.4"
+     ],
+     "bestBench": "Justice Hill (RB) 17.6",
+     "lowestFlexStarter": "Emeka Egbuka (WR) 3.8"
+    },
+    {
+     "team": "The Pig  Killers",
+     "starterPts": 100.04,
+     "benchPts": 23.6,
+     "topStarter": [
+      "Parker Washington (WR) 19.3",
+      "James Cook III (RB) 17.2"
+     ],
+     "bestBench": "Devaughn Vele (WR) 14.6",
+     "lowestFlexStarter": "Jordyn Tyson (WR) 2"
+    }
+   ]
+  },
   {
    "week": 10,
    "topPerformances": [
@@ -1874,559 +2161,101 @@
      "lowestFlexStarter": "Jaylen Waddle (WR) 3.2"
     }
    ]
-  },
-  {
-   "week": 8,
-   "topPerformances": [
-    {
-     "team": "Smoketown Rumspringas",
-     "player": "Joe Burrow",
-     "pos": "QB",
-     "pts": 49.48
-    },
-    {
-     "team": "Angry Mennonites",
-     "player": "Tyler Allgeier",
-     "pos": "RB",
-     "pts": 39.6
-    },
-    {
-     "team": "Intercourse Encroachment",
-     "player": "Tee Higgins",
-     "pos": "WR",
-     "pts": 38.5
-    },
-    {
-     "team": "Elam's Ramblers",
-     "player": "Ja'Marr Chase",
-     "pos": "WR",
-     "pts": 32.1
-    },
-    {
-     "team": "Angry Mennonites",
-     "player": "Bhayshul Tuten",
-     "pos": "RB",
-     "pts": 31.9
-    },
-    {
-     "team": "Burnin  Ballers",
-     "player": "Tony Pollard",
-     "pos": "RB",
-     "pts": 31.2
-    },
-    {
-     "team": "Angry Mennonites",
-     "player": "Josh Allen",
-     "pos": "QB",
-     "pts": 30.56
-    },
-    {
-     "team": "Cow Tippers",
-     "player": "Drake Maye",
-     "pos": "QB",
-     "pts": 28.46
-    }
-   ],
-   "duds": [
-    {
-     "team": "Smoketown Rumspringas",
-     "player": "Zay Flowers",
-     "pos": "WR",
-     "pts": 0
-    },
-    {
-     "team": "VillageRd Buttkickers",
-     "player": "Chris Godwin Jr.",
-     "pos": "WR",
-     "pts": 0
-    },
-    {
-     "team": "Cow Tippers",
-     "player": "Emanuel Wilson",
-     "pos": "RB",
-     "pts": 0
-    },
-    {
-     "team": "Burnin  Ballers",
-     "player": "Lamar Jackson",
-     "pos": "QB",
-     "pts": 0
-    },
-    {
-     "team": "Burnin  Ballers",
-     "player": "Tre Tucker",
-     "pos": "WR",
-     "pts": 0
-    }
-   ],
-   "teams": [
-    {
-     "team": "Elam's Ramblers",
-     "starterPts": 119.72,
-     "benchPts": 56.88,
-     "topStarter": [
-      "Ja'Marr Chase (WR) 32.1",
-      "Jordan Love (QB) 27.52"
-     ],
-     "bestBench": "Kirk Cousins (QB) 34.18",
-     "lowestFlexStarter": "DK Metcalf (WR) 1.4"
-    },
-    {
-     "team": "Smoketown Rumspringas",
-     "starterPts": 165.58,
-     "benchPts": 27.7,
-     "topStarter": [
-      "Joe Burrow (QB) 49.48",
-      "Harold Fannin Jr. (TE) 24.4"
-     ],
-     "bestBench": "Malik Washington (WR) 15",
-     "lowestFlexStarter": "Zay Flowers (WR) 0"
-    },
-    {
-     "team": "Manny's SexPistols",
-     "starterPts": 108.18,
-     "benchPts": 59.74,
-     "topStarter": [
-      "Michael Wilson (WR) 27.8",
-      "Jaylen Warren (RB) 23.3"
-     ],
-     "bestBench": "Patrick Mahomes (QB) 34.44",
-     "lowestFlexStarter": "Jordan Mason (RB) 2"
-    },
-    {
-     "team": "Intercourse Encroachment",
-     "starterPts": 116.18,
-     "benchPts": 24.9,
-     "topStarter": [
-      "Tee Higgins (WR) 38.5",
-      "Luther Burden III (WR) 18.6"
-     ],
-     "bestBench": "Dalton Kincaid (TE) 18.6",
-     "lowestFlexStarter": "Ja'Kobi Lane (WR) 2.3"
-    },
-    {
-     "team": "The Fishsticks",
-     "starterPts": 118.3,
-     "benchPts": 28,
-     "topStarter": [
-      "Josh Jacobs (RB) 23.2",
-      "Geno Smith (QB) 22"
-     ],
-     "bestBench": "Jordan Addison (WR) 11.6",
-     "lowestFlexStarter": "Quinshon Judkins (RB) 6.9"
-    },
-    {
-     "team": "Angry Mennonites",
-     "starterPts": 188.16,
-     "benchPts": 71.7,
-     "topStarter": [
-      "Tyler Allgeier (RB) 39.6",
-      "Bhayshul Tuten (RB) 31.9"
-     ],
-     "bestBench": "Kyler Murray (QB) 23.9",
-     "lowestFlexStarter": "Saquon Barkley (RB) 12.4"
-    },
-    {
-     "team": "VillageRd Buttkickers",
-     "starterPts": 115.04,
-     "benchPts": 32.28,
-     "topStarter": [
-      "Jahmyr Gibbs (RB) 26.8",
-      "Bucky Irving (RB) 23"
-     ],
-     "bestBench": "Wan'Dale Robinson (WR) 15.7",
-     "lowestFlexStarter": "Chris Godwin Jr. (WR) 0"
-    },
-    {
-     "team": "Cow Tippers",
-     "starterPts": 109.56,
-     "benchPts": 64.4,
-     "topStarter": [
-      "Drake Maye (QB) 28.46",
-      "Christian Watson (WR) 18.3"
-     ],
-     "bestBench": "Adonai Mitchell (WR) 28.2",
-     "lowestFlexStarter": "Emanuel Wilson (RB) 0"
-    },
-    {
-     "team": "Burnin  Ballers",
-     "starterPts": 84.6,
-     "benchPts": 40.82,
-     "topStarter": [
-      "Tony Pollard (RB) 31.2",
-      "Jaxon Smith-Njigba (WR) 25.3"
-     ],
-     "bestBench": "Sam Darnold (QB) 22.52",
-     "lowestFlexStarter": "Tre Tucker (WR) 0"
-    },
-    {
-     "team": "Thatcher's Wackers",
-     "starterPts": 151.68,
-     "benchPts": 39.36,
-     "topStarter": [
-      "D'Andre Swift (RB) 27.9",
-      "Puka Nacua (WR) 25"
-     ],
-     "bestBench": "Bryce Young (QB) 12.36",
-     "lowestFlexStarter": "Omar Cooper Jr. (WR) 0"
-    },
-    {
-     "team": "The Bike slashers",
-     "starterPts": 72.2,
-     "benchPts": 19.7,
-     "topStarter": [
-      "Dak Prescott (QB) 21.8",
-      "Ashton Jeanty (RB) 10.3"
-     ],
-     "bestBench": "Courtland Sutton (WR) 9.3",
-     "lowestFlexStarter": "Mark Andrews (TE) 4.4"
-    },
-    {
-     "team": "The Pig  Killers",
-     "starterPts": 106.8,
-     "benchPts": 35.3,
-     "topStarter": [
-      "Trevor Lawrence (QB) 25.4",
-      "James Cook III (RB) 18.1"
-     ],
-     "bestBench": "Jaylen Waddle (WR) 14.9",
-     "lowestFlexStarter": "Parker Washington (WR) 3.6"
-    }
-   ]
   }
  ],
  "thisWeek": {
-  "week": 11,
-  "matchups": [
-   {
-    "home": "Manny's SexPistols",
-    "away": "Intercourse Encroachment",
-    "livePoints": "93.96-97.34",
-    "projected": "93.96-114.35",
-    "allTimeHeadToHead": "Randy 9-9 vs Bryan",
-    "homeRecord": "12-8",
-    "awayRecord": "13-7"
-   },
-   {
-    "home": "Angry Mennonites",
-    "away": "Smoketown Rumspringas",
-    "livePoints": "83.16-111.9",
-    "projected": "101.23-156.64",
-    "allTimeHeadToHead": "Seth 10-6 vs Roger",
-    "homeRecord": "8-12",
-    "awayRecord": "12-8"
-   },
-   {
-    "home": "The Fishsticks",
-    "away": "The Bike slashers",
-    "livePoints": "88.46-141.5",
-    "projected": "88.46-141.5",
-    "allTimeHeadToHead": "Chad 14-6 vs Brandon",
-    "homeRecord": "9-11",
-    "awayRecord": "9-11"
-   },
-   {
-    "home": "VillageRd Buttkickers",
-    "away": "Thatcher's Wackers",
-    "livePoints": "128.06-134.26",
-    "projected": "128.06-134.26",
-    "allTimeHeadToHead": "Scott 18-19 vs Thatcher",
-    "homeRecord": "14-6",
-    "awayRecord": "10-10"
-   },
-   {
-    "home": "Elam's Ramblers",
-    "away": "The Pig  Killers",
-    "livePoints": "75.5-100.04",
-    "projected": "120.53-100.04",
-    "allTimeHeadToHead": "Dwayne 11-17 vs Todd",
-    "homeRecord": "7-13",
-    "awayRecord": "7-13"
-   },
-   {
-    "home": "Burnin  Ballers",
-    "away": "Cow Tippers",
-    "livePoints": "81.9-116.4",
-    "projected": "81.9-116.4",
-    "allTimeHeadToHead": "Burnie 11-11 vs Doug",
-    "homeRecord": "11-9",
-    "awayRecord": "8-12"
-   }
-  ],
-  "alreadyPlayedStandouts": [
-   {
-    "team": "The Bike slashers",
-    "player": "Dak Prescott",
-    "pos": "QB",
-    "pts": 43.9
-   },
-   {
-    "team": "Smoketown Rumspringas",
-    "player": "Jonah Coleman",
-    "pos": "RB",
-    "pts": 36.9
-   },
-   {
-    "team": "Smoketown Rumspringas",
-    "player": "CeeDee Lamb",
-    "pos": "WR",
-    "pts": 31.2
-   },
-   {
-    "team": "Manny's SexPistols",
-    "player": "Patrick Mahomes",
-    "pos": "QB",
-    "pts": 30.96
-   },
-   {
-    "team": "The Bike slashers",
-    "player": "Ashton Jeanty",
-    "pos": "RB",
-    "pts": 29.4
-   },
-   {
-    "team": "Cow Tippers",
-    "player": "Brock Purdy",
-    "pos": "QB",
-    "pts": 28.2
-   }
-  ],
-  "liveStatus": {
-   "asOf": "2026-11-23T10:50:04.909Z",
-   "currentMedian": 98.7,
-   "projectedMedian": 115.4,
-   "teams": [
-    {
-     "team": "Smoketown Rumspringas",
-     "opponent": "Angry Mennonites",
-     "pts": 111.9,
-     "proj": 156.6,
-     "vsCurrentMedian": 13.2,
-     "vsProjectedMedian": 41.2,
-     "startersFinished": 7,
-     "startersLeft": [
-      {
-       "player": "Joe Burrow",
-       "pos": "QB",
-       "nfl": "CIN",
-       "game": "@ WSH, Mon 8:15 PM",
-       "status": "not started",
-       "ptsSoFar": 0,
-       "proj": 28.9
-      },
-      {
-       "player": "Chase Brown",
-       "pos": "RB",
-       "nfl": "CIN",
-       "game": "@ WSH, Mon 8:15 PM",
-       "status": "not started",
-       "ptsSoFar": 0,
-       "proj": 15.9
-      }
-     ]
-    },
-    {
-     "team": "The Bike slashers",
-     "opponent": "The Fishsticks",
-     "pts": 141.5,
-     "proj": 141.5,
-     "vsCurrentMedian": 42.8,
-     "vsProjectedMedian": 26.1,
-     "startersFinished": 9,
-     "startersLeft": []
-    },
-    {
-     "team": "Thatcher's Wackers",
-     "opponent": "VillageRd Buttkickers",
-     "pts": 134.3,
-     "proj": 134.3,
-     "vsCurrentMedian": 35.6,
-     "vsProjectedMedian": 18.9,
-     "startersFinished": 9,
-     "startersLeft": []
-    },
-    {
-     "team": "VillageRd Buttkickers",
-     "opponent": "Thatcher's Wackers",
-     "pts": 128.1,
-     "proj": 128.1,
-     "vsCurrentMedian": 29.4,
-     "vsProjectedMedian": 12.7,
-     "startersFinished": 9,
-     "startersLeft": []
-    },
-    {
-     "team": "Elam's Ramblers",
-     "opponent": "The Pig  Killers",
-     "pts": 75.5,
-     "proj": 120.5,
-     "vsCurrentMedian": -23.2,
-     "vsProjectedMedian": 5.1,
-     "startersFinished": 6,
-     "startersLeft": [
-      {
-       "player": "Ja'Marr Chase",
-       "pos": "WR",
-       "nfl": "CIN",
-       "game": "@ WSH, Mon 8:15 PM",
-       "status": "not started",
-       "ptsSoFar": 0,
-       "proj": 25.9
-      },
-      {
-       "player": "Chig Okonkwo",
-       "pos": "TE",
-       "nfl": "WSH",
-       "game": "vs CIN, Mon 8:15 PM",
-       "status": "not started",
-       "ptsSoFar": 0,
-       "proj": 10.1
-      },
-      {
-       "player": "Antonio Williams",
-       "pos": "WR",
-       "nfl": "WSH",
-       "game": "vs CIN, Mon 8:15 PM",
-       "status": "not started",
-       "ptsSoFar": 0,
-       "proj": 9
-      }
-     ]
-    },
-    {
-     "team": "Cow Tippers",
-     "opponent": "Burnin  Ballers",
-     "pts": 116.4,
-     "proj": 116.4,
-     "vsCurrentMedian": 17.7,
-     "vsProjectedMedian": 1,
-     "startersFinished": 9,
-     "startersLeft": []
-    },
-    {
-     "team": "Intercourse Encroachment",
-     "opponent": "Manny's SexPistols",
-     "pts": 97.3,
-     "proj": 114.4,
-     "vsCurrentMedian": -1.4,
-     "vsProjectedMedian": -1.1,
-     "startersFinished": 8,
-     "startersLeft": [
-      {
-       "player": "Tee Higgins",
-       "pos": "WR",
-       "nfl": "CIN",
-       "game": "@ WSH, Mon 8:15 PM",
-       "status": "not started",
-       "ptsSoFar": 0,
-       "proj": 17
-      }
-     ]
-    },
-    {
-     "team": "Angry Mennonites",
-     "opponent": "Smoketown Rumspringas",
-     "pts": 83.2,
-     "proj": 101.2,
-     "vsCurrentMedian": -15.5,
-     "vsProjectedMedian": -14.2,
-     "startersFinished": 7,
-     "startersLeft": [
-      {
-       "player": "Stefon Diggs",
-       "pos": "WR",
-       "nfl": "WSH",
-       "game": "vs CIN, Mon 8:15 PM",
-       "status": "not started",
-       "ptsSoFar": 0,
-       "proj": 13.1
-      },
-      {
-       "player": "Bengals D/ST",
-       "pos": "D/ST",
-       "nfl": "CIN",
-       "game": "@ WSH, Mon 8:15 PM",
-       "status": "not started",
-       "ptsSoFar": 0,
-       "proj": 5
-      }
-     ]
-    },
-    {
-     "team": "The Pig  Killers",
-     "opponent": "Elam's Ramblers",
-     "pts": 100,
-     "proj": 100,
-     "vsCurrentMedian": 1.3,
-     "vsProjectedMedian": -15.4,
-     "startersFinished": 9,
-     "startersLeft": []
-    },
-    {
-     "team": "Manny's SexPistols",
-     "opponent": "Intercourse Encroachment",
-     "pts": 94,
-     "proj": 94,
-     "vsCurrentMedian": -4.7,
-     "vsProjectedMedian": -21.4,
-     "startersFinished": 9,
-     "startersLeft": []
-    },
-    {
-     "team": "The Fishsticks",
-     "opponent": "The Bike slashers",
-     "pts": 88.5,
-     "proj": 88.5,
-     "vsCurrentMedian": -10.2,
-     "vsProjectedMedian": -26.9,
-     "startersFinished": 9,
-     "startersLeft": []
-    },
-    {
-     "team": "Burnin  Ballers",
-     "opponent": "Cow Tippers",
-     "pts": 81.9,
-     "proj": 81.9,
-     "vsCurrentMedian": -16.8,
-     "vsProjectedMedian": -33.5,
-     "startersFinished": 9,
-     "startersLeft": []
-    }
-   ]
-  }
- },
- "nextWeek": {
   "week": 12,
   "matchups": [
    {
     "home": "The Fishsticks",
     "away": "Angry Mennonites",
-    "allTimeHeadToHead": "Chad 12-14 vs Seth"
+    "livePoints": "0-0",
+    "projected": "130.04-116.64",
+    "allTimeHeadToHead": "Chad 12-14 vs Seth",
+    "homeRecord": "9-13",
+    "awayRecord": "8-14"
    },
    {
     "home": "VillageRd Buttkickers",
     "away": "The Pig  Killers",
-    "allTimeHeadToHead": "Scott 9-12 vs Todd"
+    "livePoints": "0-0",
+    "projected": "124.31-123.84",
+    "allTimeHeadToHead": "Scott 9-12 vs Todd",
+    "homeRecord": "15-7",
+    "awayRecord": "7-15"
    },
    {
     "home": "Intercourse Encroachment",
     "away": "Thatcher's Wackers",
-    "allTimeHeadToHead": "Bryan 14-8 vs Thatcher"
+    "livePoints": "0-0",
+    "projected": "124.15-117.16",
+    "allTimeHeadToHead": "Bryan 14-8 vs Thatcher",
+    "homeRecord": "14-8",
+    "awayRecord": "12-10"
    },
    {
     "home": "Cow Tippers",
     "away": "Elam's Ramblers",
-    "allTimeHeadToHead": "Doug 15-10 vs Dwayne"
+    "livePoints": "0-0",
+    "projected": "100.81-131.78",
+    "allTimeHeadToHead": "Doug 15-10 vs Dwayne",
+    "homeRecord": "10-12",
+    "awayRecord": "9-13"
    },
    {
     "home": "Burnin  Ballers",
     "away": "Smoketown Rumspringas",
-    "allTimeHeadToHead": "Burnie 14-11 vs Roger"
+    "livePoints": "0-0",
+    "projected": "95.86-138.34",
+    "allTimeHeadToHead": "Burnie 14-11 vs Roger",
+    "homeRecord": "11-11",
+    "awayRecord": "14-8"
    },
    {
     "home": "The Bike slashers",
     "away": "Manny's SexPistols",
-    "allTimeHeadToHead": "Brandon 7-14 vs Randy"
+    "livePoints": "0-0",
+    "projected": "115.8-108.44",
+    "allTimeHeadToHead": "Brandon 7-14 vs Randy",
+    "homeRecord": "11-11",
+    "awayRecord": "12-10"
+   }
+  ],
+  "alreadyPlayedStandouts": [],
+  "liveStatus": null
+ },
+ "nextWeek": {
+  "week": 13,
+  "matchups": [
+   {
+    "home": "Angry Mennonites",
+    "away": "Burnin  Ballers",
+    "allTimeHeadToHead": "Seth 12-10 vs Burnie"
+   },
+   {
+    "home": "The Fishsticks",
+    "away": "Manny's SexPistols",
+    "allTimeHeadToHead": "Chad 16-15 vs Randy"
+   },
+   {
+    "home": "Intercourse Encroachment",
+    "away": "The Pig  Killers",
+    "allTimeHeadToHead": "Bryan 13-5 vs Todd"
+   },
+   {
+    "home": "The Bike slashers",
+    "away": "Thatcher's Wackers",
+    "allTimeHeadToHead": "Brandon 8-7 vs Thatcher"
+   },
+   {
+    "home": "Smoketown Rumspringas",
+    "away": "Elam's Ramblers",
+    "allTimeHeadToHead": "Roger 10-13 vs Dwayne"
+   },
+   {
+    "home": "VillageRd Buttkickers",
+    "away": "Cow Tippers",
+    "allTimeHeadToHead": "Scott 10-14 vs Doug"
    }
   ]
  },
@@ -2446,8 +2275,8 @@
       {
        "player": "D'Andre Swift (RB)",
        "from": "Thatcher's Wackers",
-       "ptsForNewTeamSince": 0,
-       "startsSince": 0,
+       "ptsForNewTeamSince": 11.9,
+       "startsSince": 1,
        "ptsForOldTeamBefore": 155.8
       },
       {
@@ -2473,8 +2302,8 @@
       {
        "player": "Travis Kelce (TE)",
        "from": "Elam's Ramblers",
-       "ptsForNewTeamSince": 5,
-       "startsSince": 1,
+       "ptsForNewTeamSince": 30.4,
+       "startsSince": 2,
        "ptsForOldTeamBefore": 90.2
       }
      ]
@@ -2509,8 +2338,8 @@
       {
        "player": "Jaylen Warren (RB)",
        "from": "Smoketown Rumspringas",
-       "ptsForNewTeamSince": 140.9,
-       "startsSince": 7,
+       "ptsForNewTeamSince": 145.8,
+       "startsSince": 8,
        "ptsForOldTeamBefore": 20
       }
      ]
@@ -2804,20 +2633,20 @@
  ],
  "pickupsThatPaidOff": [
   {
+   "player": "C.J. Stroud (QB)",
+   "team": "The Fishsticks",
+   "date": "2026-09-16",
+   "bid": 8,
+   "ptsSinceAsStarter": 148.7,
+   "starts": 5
+  },
+  {
    "player": "Jordan Love (QB)",
    "team": "Elam's Ramblers",
    "date": "2026-10-14",
    "bid": 175,
    "ptsSinceAsStarter": 125.7,
    "starts": 5
-  },
-  {
-   "player": "C.J. Stroud (QB)",
-   "team": "The Fishsticks",
-   "date": "2026-09-16",
-   "bid": 8,
-   "ptsSinceAsStarter": 121.3,
-   "starts": 4
   },
   {
    "player": "Braelon Allen (RB)",
@@ -2832,8 +2661,8 @@
    "team": "The Pig  Killers",
    "date": "2026-09-30",
    "bid": 451,
-   "ptsSinceAsStarter": 83.9,
-   "starts": 6
+   "ptsSinceAsStarter": 92.6,
+   "starts": 7
   },
   {
    "player": "Vikings D/ST (D/ST)",
@@ -2860,12 +2689,12 @@
    "starts": 5
   },
   {
-   "player": "Caleb Douglas (WR)",
+   "player": "Emmett Johnson (RB)",
    "team": "Cow Tippers",
-   "date": "2026-10-17",
-   "bid": 0,
-   "ptsSinceAsStarter": 53.9,
-   "starts": 4
+   "date": "2026-11-04",
+   "bid": 327,
+   "ptsSinceAsStarter": 63.4,
+   "starts": 2
   }
  ],
  "history": {
