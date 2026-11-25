@@ -1,6 +1,47 @@
 {
   "editions": [
     {
+      "id": "2026-11-25",
+      "date": "2026-11-25",
+      "label": "Wednesday Edition",
+      "week": 12,
+      "publishedAt": "2026-11-25T10:44:05.233Z",
+      "stories": [
+        {
+          "kicker": "Suspension Watch",
+          "headline": "Todd asks if his golf handicap transfers to the standings",
+          "dek": "Todd is 7-15 and Seth is 8-14, with a year off waiting for whoever finishes last.",
+          "body": [
+            "Todd is 2-9 against the median. At his meat stand, he can put his thumb on the scale. In fantasy, he puts his thumb on the scale and ESPN asks if he'd like to make Jordyn Tyson his captain. Tyson gave him 2.0 last week. The thumb is requesting a trade.",
+            "Todd went from 176.9 in Week 10 to 100.0 in Week 11. That's the golf swing he keeps telling everybody felt great until he looked up. Meanwhile Seth has lost three straight in the standings and scored 91.7 last week. Brock Bowers contributed 0.0. You could put that number on a name tag and have it stand behind the counter pretending to manage the store.",
+            "Todd gets Scott and then Bryan. Scott leads the league and Bryan is second, which makes this a lovely time for Todd to discover that a family discount does not apply to a loss. Seth gets Chad and then Burnie. Beating Chad would drag a 9-13 team closer to the mess. Chad is a pastor, so somebody should tell him that visiting the basement is technically a charitable act and that he can do it after the season.",
+            "Todd can erase the gap by outwinning Seth in the head-to-head and median games that are left. Seth can keep Todd underneath him by matching him from here. This is the first time all year Todd has had a compelling reason to look at Seth's lineup. Imagine checking another man's flex with the exact intensity of somebody in a parking lot trying to remember whether that's his car getting towed."
+          ]
+        },
+        {
+          "kicker": "Waiver Wire",
+          "headline": "Doug buys the Packers defense and asks if it comes with a warranty",
+          "dek": "Doug spent $107 on the Packers defense and $52 on Austin Ekeler in Wednesday's waiver run.",
+          "body": [
+            "Doug paid $107 to exchange the Patriots defense for the Packers defense. At his produce stand you usually get to squeeze something before you pay that much for it. On waivers you get a tiny helmet and the opportunity to squeeze your phone on Sunday until the battery comes out.",
+            "He also paid $52 for Austin Ekeler, bringing the morning's bill to $159. The defense is the item he came into the store for. Ekeler is what he grabbed while waiting for the cashier to find somebody authorized to sell him a defense. Imagine the cashier asking whether Doug found everything he needed and Doug pointing very confidently at a receipt that contains absolutely no points.",
+            "Burnie paid $75 apiece for Deshaun Watson and Bam Knight. There's a lovely symmetry to that. The receipt looks like the league held a silent auction and Burnie wrote the same number on every clipboard he passed on the way to the bathroom. The real danger is that he now has two new players to stare at while trying to remember which one inspired him to open the app.",
+            "Seth spent $50 to swap Brandon Aiyuk for Jack Bech. Thatcher spent $36 to turn Kalif Raymond into the Giants defense, a week after claiming Raymond for $0. That is a perfectly respectable way to run a pawn shop if you remember to charge the guy on the other side of the counter. Thatcher apparently prefers to hand the man his own merchandise back, tuck cash into his pocket and remind him to tell Randy he got lucky."
+          ]
+        },
+        {
+          "kicker": "FAAB Receipts",
+          "headline": "Chad finds a quarterback in the change tray",
+          "dek": "Chad's $8 claim on C.J. Stroud has returned 148.7 points across five starts.",
+          "body": [
+            "Chad paid $8 for C.J. Stroud and has collected 148.7 points in five starts. That's the kind of purchase you make when the self-checkout rings up a television as an onion and you suddenly get very interested in putting the receipt in your pocket and walking at a normal speed. Chad oversees church building projects. If he gets the same return on lumber, somebody should start checking the steeple for a second steeple.",
+            "Dwayne paid $175 for Jordan Love and got 125.7 in five starts. He also paid nothing for Braelon Allen and got 93.8 in six starts. The two receipts look like Dwayne negotiated a terrific deal on a refrigerator and then paid full retail for the cardboard box. He's hung enough drywall to know how this works. When the customer wants to know why the estimate doubled, point at the ceiling and start explaining something about studs until he goes back inside.",
+            "Then there's Todd, who paid $451 for Ollie Gordon II and got 92.6 points in seven starts. Devaughn Vele cost Todd nothing and has given him 65.9 in six. Picture a man at a carnival clutching a stuffed bear he just spent his wallet winning. That's Todd. The man running the booth is trying to explain that the smaller bear came free with admission. Todd would like everybody to stop looking at the smaller bear. He would also like the guy running the booth to put the basketball back in his hands because he's finally figured out the angle."
+          ]
+        }
+      ]
+    },
+    {
       "id": "2026-11-24",
       "date": "2026-11-24",
       "label": "Tuesday Edition",
