@@ -1,6 +1,52 @@
 {
   "editions": [
     {
+      "id": "2026-11-26",
+      "date": "2026-11-26",
+      "label": "Thursday Edition",
+      "week": 12,
+      "publishedAt": "2026-11-26T10:42:57.676Z",
+      "stories": [
+        {
+          "kicker": "Trade Desk",
+          "headline": "Dwayne installs two running backs, forgets to wire one",
+          "dek": "Drake London and Travis Kelce have given Thatcher 48.3 points in starts since the trade, while D’Andre Swift has given Dwayne 11.9.",
+          "body": [
+            "Dwayne traded Drake London and Travis Kelce for D’Andre Swift and TreVeyon Henderson. Swift has given him 11.9 points in one start. Henderson has yet to start for him. That’s a running back and the little plastic running back they put on the box to show what’s inside.",
+            "The trade has a very specific home-improvement energy. Dwayne took out two working fixtures and came back from the hardware store with a faucet and a second package that says faucet in a slightly different font. He installed the first one. The second one is sitting under the sink with the receipt, waiting for somebody to ask why the water pressure got worse.",
+            "Thatcher, meanwhile, is the guy you never want to buy your old house. He’ll call to complain about the light switches while standing in the kitchen you paid to remodel. London scored 17.9 in his one start for Thatcher. Kelce has 30.4 in two. If Thatcher ever invites Dwayne over, Dwayne should bring a stud finder. There’s a reasonable chance it’ll beep every time he points it at Thatcher’s lineup.",
+            "London and Kelce have already put up 48.3 for Thatcher. Dwayne hangs drywall for a living. If a customer calls about this job, tell him the points are behind the wall and it’ll cost extra to open it up.",
+            "The beautiful thing about an unstarted running back is that he can still be anything you want him to be. Right now Henderson is a conversation piece. Set him on a little pedestal. Put a velvet rope around him. When people ask what he does, turn the question around and ask why they’re touching the exhibits."
+          ]
+        },
+        {
+          "kicker": "Playoff Archives",
+          "headline": "Roger’s playoff wins fit on a birthday candle",
+          "dek": "Roger sits third at 14-8, with one playoff victory across five previous trips.",
+          "body": [
+            "Roger has one playoff win in five trips. You can count his entire postseason haul while holding a pretzel in the same hand.",
+            "Five trips is enough to learn the layout of the building. Roger knows where the bathrooms are, which door sticks, and how to get out of the parking lot before the other team finishes celebrating. At this point the playoff committee could save everybody some time and print his ticket on the back of an exit sign.",
+            "There’s a little plaque you could put up for that one win. Make it the size of a manhole cover. Hang it at eye level. When somebody asks why there’s so much empty brass, Roger can explain that it’s called a matte finish and that adding more victories would ruin the clean lines.",
+            "Now he’s 14-8 and sitting third, which means the bracket may have to let him back in. Imagine being the usher who recognizes him. You start to point toward his seat, see the look on his face and just tell him where he parked.",
+            "Third place is a very promising place from which to threaten the league with a long postseason stay. If Roger gets in, somebody should hand him a hotel key in the shape of a bracket. The man deserves to see what happens when you put your bag down before asking about checkout. I’d still leave the engine running. There’s a fine line between believing in yourself and making the valet do extra paperwork.",
+            "If he gets another playoff win, we’ll gladly issue a correction. It’ll be the first correction in league history that requires Roger to put down his pretzel."
+          ]
+        },
+        {
+          "kicker": "Power Rankings",
+          "headline": "Bryan hangs a first-place sign one floor below Scott",
+          "dek": "Bryan leads the power rankings and averages a league-best 139.3 points, while Scott leads the standings by a win.",
+          "body": [
+            "Bryan is first in power, second in the standings. As a writer, he knows exactly what to do when Scott has a better record. Put Bryan’s name in a bigger font.",
+            "The power rankings are perfect for a guy who wants to walk into a room and announce that, after a careful review of all the available evidence, the room belongs to him. Bryan can show Scott the spreadsheet. Scott can show Bryan the standings. Then they can spend the rest of Thanksgiving passing the gravy directly over each other’s hands.",
+            "Please imagine Bryan accepting a trophy for power rankings. There’s a lectern, a little bottle of water and a very long list of people he’d like to thank for agreeing that averaging more points should count as being taller. Scott has been seated in the front row. The chair is on a riser so the ceremony can accurately reflect the standings.",
+            "Scott is 15-7 and Bryan is 14-8. Bryan averages 139.3 points to Scott’s 137.6, so expect every copy of Bryan’s imaginary standings to come with a foreword long enough to hide the table of contents. Scott can read it from the top step if Bryan will hold the book up.",
+            "There’s still time for Bryan to improve his actual position. In the meantime, he can put a little asterisk on Scott’s record and lead readers to a footnote that says to see Bryan’s record. Then put another asterisk on Bryan’s record and lead them back to the power rankings. With enough footnotes you can keep Scott walking in circles until the playoffs start."
+          ]
+        }
+      ]
+    },
+    {
       "id": "2026-11-25",
       "date": "2026-11-25",
       "label": "Wednesday Edition",
