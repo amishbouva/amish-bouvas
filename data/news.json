@@ -1,6 +1,48 @@
 {
   "editions": [
     {
+      "id": "2026-11-28",
+      "date": "2026-11-28",
+      "label": "Saturday Edition",
+      "week": 12,
+      "publishedAt": "2026-11-28T10:39:45.771Z",
+      "stories": [
+        {
+          "kicker": "Game of the Week",
+          "headline": "Burnie’s projected lead would fit inside a wedding ring",
+          "dek": "Burnie leads Roger 53.3 to 36.6 so far, but their Week 12 projections are separated by less than a point.",
+          "body": [
+            "Burnie is projected for 143.5 and Roger for 142.8. Burnie DJs weddings for a living, so he knows what to do with a lead this small. Get everybody onto the dance floor, turn the lights down and pray nobody notices it’s the groom’s nephew doing the worm. That nephew is your playoff cushion, Burnie. Please ask him to tuck his shirt in before the photographer gets here.",
+            "Roger still has Joe Burrow on Sunday and Tetairoa McMillan on Monday. Burnie still has Jaxon Smith-Njigba and Derrick Henry on Sunday. That means Burnie could spend Sunday night thinking he’s done a fantastic job, then spend Monday watching a man he didn’t invite eat the top tier of his cake. There’s a reason wedding DJs ask to be paid before the reception. Imagine trying to collect after McMillan has finished with the buttercream.",
+            "Burnie is seventh at 11-11, with his brother Brandon holding the last playoff spot at the same record. They co-own an Airbnb, so at least Burnie has experience watching somebody else occupy a room he feels entitled to. The sixth seed comes with a keypad. Brandon can change the code whenever he wants. Burnie gets to stand on the porch and explain to the doorbell camera that he’s actually one of the owners.",
+            "Both teams project above the median, so Burnie could still get a win even if Roger takes the matchup. That’s the little bag of almonds they hand you on the way out. You can eat it in the car while your brother sends you the Wi-Fi password."
+          ]
+        },
+        {
+          "kicker": "Median Watch",
+          "headline": "Doug tries to clear the median without a golf handicap",
+          "dek": "Doug projects for 131.1 against a 128.7 median, while Dwayne projects for 139.3 in their head-to-head matchup.",
+          "body": [
+            "Doug is projected to lose to Dwayne and beat the median by 2.4 points. Imagine Doug at the produce stand cutting a watermelon so thin you can read the waiver wire through it. That’s his projected win. He’d like you to buy it by the pound and refrain from breathing on the scale until the transaction is complete.",
+            "Dwayne has Ja’Marr Chase left on Sunday. Doug still has Justin Jefferson and George Kittle. That’s a lot of talent assembled to answer the question of whether Doug can salvage a split this weekend. At 10-12, Doug can use the extra win. Dwayne is 9-13 and could pull even with him if the Ramblers sweep and the Tippers split. Doug, that’s the footsteps you hear. You were supposed to put a bell on the cow.",
+            "Chad is projected for 129.5, while Bryan is projected for 127.9. Those are the scores on either side of the projected cut. Bryan owns pretzel franchises and still has Christian McCaffrey to play, so somebody should put him to work twisting one more fantasy point out of the dough. If that fails, he can cover the whole scoreboard in cinnamon sugar and sell it as a limited-time item.",
+            "Doug likes to brag about the handicap strokes he gets in golf. The median has a handicap system too. If your ball goes in the pond, you can ask Dwayne to fish it out. He’ll bring it back to the clubhouse, where he plans to write his own name on it."
+          ]
+        },
+        {
+          "kicker": "Suspension Watch",
+          "headline": "Todd discovers his older brother charges full price for a wedgie",
+          "dek": "Last-place Todd trails Scott 105.3 to 61.8 so far and projects to finish below the median.",
+          "body": [
+            "Todd drew his oldest brother during a fight to stay out of last place. Scott has already put up 105.3. Todd has 61.8. There’s a particular indignity in getting stuffed into a locker by somebody who already knows the combination because he used to have that locker. Scott can probably open it between orders on the food truck. Todd, if you hear the lunch bell, try rolling toward the window.",
+            "Todd is projected for 124.9, below the projected median of 128.7. Trevor Lawrence and Ollie Gordon II still have to play. The head-to-head comeback would make a lovely fairy tale, but the median is close enough for Todd to reach through the bars and grab it. The Pig Killers would happily settle for a single win here. Put it on butcher paper and let Todd take it home like a pork chop somebody finally agreed to buy.",
+            "Seth, a win ahead of Todd in the standings, is projected for 79.8 against Chad’s 129.5. Chad’s Wi-Fi kept buffering the Phillies game at the draft. Give Seth that connection on Sunday, and he could spend an entire afternoon staring at 18.2 thinking the next little spin of the loading wheel is going to reveal a playoff team. Imagine the disappointment when the picture comes back in high definition.",
+            "Last place comes with a year off. If both projections hold, Todd and Seth each take two losses and Todd stays a win behind. Todd and Seth take opposite sides on nearly everything. It’s nice to see them finally collaborate on something. Unfortunately, it’s a trapdoor, and they’re both standing on it."
+          ]
+        }
+      ]
+    },
+    {
       "id": "2026-11-26",
       "date": "2026-11-26",
       "label": "Thursday Edition",
